@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name" translatable="false">HealthBot</string>
+
+    <!--Used by Chatbot-->
+    <string name="non_empty_query" translatable="false">Query should not be empty</string>
+
+
+    <!--Strings required for OptionsMenu-->
+    <string name="english" translatable="false">English</string>
+    <string name="hindi" translatable="false">हिंदी</string>
+    <string name="tour" translatable="false">Tour / यात्रा</string>
+
+
+
+
+
+    <!--Text required for WelcomeActivity and WelcomeActivity2-->
+    <string name="title_activity_welcome" translatable="false">Home Screen</string>
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
+
+    <!--Text to be placed in the TextViews' in the HomeScreen Activity-->
+    <string name="textviewqs" translatable="false"> Your Question Here (only English) </string>
+    <string name="textviewans" translatable="false">  The answer will be displayed here</string>
+    <!--Text in the '@id/guidetv' TextView of the HomeScreen-->
+    <string name="text">To chat with your HealthBot Click OK</string>
+    <!--Text in Button of HomeScreen Activity-->
+    <string name="home_btn1" translatable="false">OK</string>
+
+    <!--Text in Welcome_slides-->
+    <string name="Slide1">Make sure you have an Active Internet Connection</string>
+    <string name="Slide2">You can select the language from Menu</string>
+    <string name="Slide3">You can chat with the HealthBot in English</string>
+    <string name="Slide4">You can interact with the HealthBot in Hindi also</string>
+    <string name="Slide2_extra">Click on Mic and talk with HealthBot in English</string>
+
+</resources>

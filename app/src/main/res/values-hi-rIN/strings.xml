@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">HealthBot</string>
+    <string name="next">आगामी</string>
+    <string name="skip">छोड़ें</string>
+    <string name="text">अपने हेल्थबॉट से चैट करने के लिए ठीक क्लिक करें</string>
+
+    <string name="start">समझ लिया</string>
+    <string name="Slide1">सुनिश्चित करें कि आपके पास एक सक्रिय इंटरनेट कनेक्शन है</string>
+    <string name="Slide2">आप मेनू से भाषा का चयन कर सकते हैं</string>
+    <string name="Slide2_extra">माइक पर क्लिक करें और अंग्रेजी में हेल्थबॉट के साथ बात करें</string>
+    <string name="Slide3">आप अंग्रेजी में हेल्थबॉट से बात करने के लिए बटन दबाएं</string>
+    <string name="Slide4">आप हिंदी में हेल्थबॉट से भी बातचीत कर सकते हैं</string>
+
+
+</resources>

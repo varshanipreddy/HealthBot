@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!--The menu for entries of the OptionsMenu-->
+
+    <item android:title="@string/english"
+        android:id="@+id/eng" />
+    <item
+        android:title="@string/hindi"
+        android:id="@+id/hin" />
+    <item
+        android:title="@string/tour"
+        android:id="@+id/tour" />
+
+</menu>
